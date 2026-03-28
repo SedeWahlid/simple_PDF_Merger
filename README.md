@@ -10,8 +10,8 @@
 
 ## 🎮 DEMO
 
-Playground: https://simplepdfmerger-4oguxw6yppwaf74sxkosgi.streamlit.app/
-Note: the playground will be much slower than running it locally (obviously) ;)
+Playground: https://simplepdfmerger-4oguxw6yppwaf74sxkosgi.streamlit.app/ 
+* Note: the playground will be much slower than running it locally (obviously) ;)
 
 ## ✨ Features
 
