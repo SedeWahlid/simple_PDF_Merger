@@ -10,7 +10,7 @@
 
 ## 🎮 DEMO
 
-Will be added later
+Playground: https://simplepdfmerger-4oguxw6yppwaf74sxkosgi.streamlit.app/
 
 ## ✨ Features
 
